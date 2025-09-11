@@ -109,3 +109,4 @@ Pois MCP não é apenas um novo protocolo, é um novo paradigma. A promessa é q
 - [MCP: chat no lugar do frontend. LLMs dominarão?](https://www.linkedin.com/posts/arthursantosalmeida_mcp-n%C3%A3o-%C3%A9-apenas-um-novo-protocolo-%C3%A9-tamb%C3%A9m-activity-7339400263381712896-pRyl)
 - [Workflows não são novos; IA só ajuda na decisão. Hype maior que impacto.](https://www.linkedin.com/posts/arthursantosalmeida_ah-mas-agents-de-ia-s%C3%A3o-revolucion%C3%A1rios-activity-7343634839515885568-CrZhrcm=ACoAACZzk2MBmKjV9Lb4deXbG1fN8YZsQoc4nF4)
 - [MCP e IA transformam automação e interação com sistemas](https://www.linkedin.com/posts/arthursantosalmeida_model-context-protocol-na-pr%C3%A1tica-com-devops-activity-7343748042090582016-48_F)
+- [Fundamentos de Arquitetura aplicado a AI Agents](https://www.linkedin.com/posts/arthursantosalmeida_llm-ai-agenticai-activity-7369350064562933761-rDN5/)
